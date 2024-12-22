@@ -1,1 +1,1 @@
-print("this is a apple")
+print("this is a apple (potato)")
